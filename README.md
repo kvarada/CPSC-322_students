@@ -35,8 +35,8 @@ The class meetings will be held on Tuesdays (T) and Thursdays (R) in the Fall 20
 
 | Position           | Name             | Email | Office hour| 
 | :---------------- | :-------------- | :---------- |:----------: |
-| Instructor (Section 1) | Hazra Imran    | hazra@cs.ubc.ca  | TBA |
-| Instructor (Section 2) | Varada Kolhatkar     | kvarada@mail.ubc.ca  | TBA|
+| Instructor (Section 1) | Hazra Imran    | hazra@cs.ubc.ca  | Thursdays 12:30 to 1:30 PM in ICCS 249 |
+| Instructor (Section 2) | Varada Kolhatkar     | kvarada@mail.ubc.ca  | Fridays 11 to 12 PM in ICCS 185|
 | TA | Kyle Clarkson | clarkson@cs.ubc.ca | TBA |
 | TA | Rui Ge | ge@alumni.ubc.ca | TBA |
 | TA | Ganesh Jawahar | ganeshjw@cs.ubc.ca | TBA|
