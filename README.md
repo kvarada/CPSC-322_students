@@ -37,7 +37,7 @@ The class meetings will be held on Tuesdays (T) and Thursdays (R) in the Fall 20
 | :---------------- | :-------------- | :---------- |:----------: |
 | Instructor (Section 1) | Hazra Imran    | hazra@cs.ubc.ca  | Thursdays 12:30 to 1:30 PM in ICCS 249 |
 | Instructor (Section 2) | Varada Kolhatkar     | kvarada@mail.ubc.ca  | Fridays 11 to 12 PM in ICCS 185|
-| TA | Kyle Clarkson | clarkson@cs.ubc.ca | TBA |
+| TA | Kyle Clarkson | clarkson@cs.ubc.ca | Fridays 2 to 3pm in ICCS x241|
 | TA | Rui Ge | ge@alumni.ubc.ca | TBA |
 | TA | Ganesh Jawahar | ganeshjw@cs.ubc.ca | TBA|
 | TA | Siddhesh Khandelwal | skhandel@cs.ubc.ca | TBA|
@@ -45,6 +45,7 @@ The class meetings will be held on Tuesdays (T) and Thursdays (R) in the Fall 20
 | TA | Tzu-yun (Ariel) Shann | shannari@cs.ubc.ca | TBA|
 | TA | Joanna Tu | joanna.tu@alumni.ubc.ca | TBA|
 
+Note: Office hours can also be seen [here] (https://my.cs.ubc.ca/course/cpsc-322).
 
 ## Important dates
 
