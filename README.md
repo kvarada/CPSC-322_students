@@ -33,17 +33,32 @@ The class meetings will be held on Tuesdays (T) and Thursdays (R) in the Fall 20
 
 ## Teaching team
 
-| Position           | Name             | Email | Office hour| 
+| Position           | Name             | Email |
+| :---------------- | :-------------- | :---------- |
+| Instructor (Section 1) | Hazra Imran    | hazra@cs.ubc.ca  |
+| Instructor (Section 2) | Varada Kolhatkar     | kvarada@mail.ubc.ca  |
+| TA | Kyle Clarkson | clarkson@cs.ubc.ca |
+| TA | Rui Ge | ge@alumni.ubc.ca |
+| TA | Ganesh Jawahar | ganeshjw@cs.ubc.ca |
+| TA | Siddhesh Khandelwal | skhandel@cs.ubc.ca |
+| TA | Raymond Li | raymondl@cs.ubc.ca |
+| TA | Tzu-yun (Ariel) Shann | shannari@cs.ubc.ca |
+| TA | Joanna Tu | joanna.tu@alumni.ubc.ca |
+
+## Office hours
+| Day           | Name            | Time | Location |
 | :---------------- | :-------------- | :---------- |:----------: |
-| Instructor (Section 1) | Hazra Imran    | hazra@cs.ubc.ca  | Thursdays 12:30 to 1:30 PM in ICCS 249 |
-| Instructor (Section 2) | Varada Kolhatkar     | kvarada@mail.ubc.ca  | Fridays 11 to 12 PM in ICCS 185|
-| TA | Kyle Clarkson | clarkson@cs.ubc.ca | Fridays 2 to 3pm in ICCS x241|
-| TA | Rui Ge | ge@alumni.ubc.ca | TBA |
-| TA | Ganesh Jawahar | ganeshjw@cs.ubc.ca | TBA|
-| TA | Siddhesh Khandelwal | skhandel@cs.ubc.ca | TBA|
-| TA | Raymond Li | raymondl@cs.ubc.ca | TBA|
-| TA | Tzu-yun (Ariel) Shann | shannari@cs.ubc.ca | TBA|
-| TA | Joanna Tu | joanna.tu@alumni.ubc.ca | TBA|
+| Monday | Ariel | 10:30 to 11:30 AM | ICCS X239|
+| Tuesday | Federico | 12:00 to 13:30 PM | ICCS X341|
+| Tuesday | Raymond | 13:00 to 14:30 PM | ICCS X341|
+| Wednesday | Siddhesh | 11:00 to 12:00 PM | ICCS X239|
+| Thursday | Rui | 11:00 to 12:00 PM | ICCS X239|
+| Thursday | Hazra | 12:30 to 13:30 PM | ICCS 249|
+| Friday | Varada | 11:00 to 12:00 PM | ICCS 185|
+| Friday | Ganesh | 12:00 to 13:00 PM | ICCS X337|
+| Friday | Kyle | 14:00 to 15:00 PM | ICCS X241|
+
+
 
 Note: Office hours can also be seen [here] (https://my.cs.ubc.ca/course/cpsc-322).
 
