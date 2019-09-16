@@ -222,7 +222,7 @@ Topic-level learning goals are useful for self-evaluation and preparing for exam
 |-------|------------|----------------|---------------------------|
 |   1   | **Sept 3** <br> Imagine Day (no class)     |  **Sept 5** <br> What is AI? [1.1-1.3]  | Assignment 0 released |
 |   2   | **Sept 10** <br> Representational Dimensions [1.4-1.5] <br><br> Applications of AI [1.6] |  **Sept 12** <br> Search: Intro [3.1-3.4]  | Assignment 0 due on Sept 9 at 11:59 PM |
-|   3   | **Sept 17** <br> Search: Uninformed search, DFS and BFS <br>[3.5.1, 3.5.2] | **Sept 19** <br> Search: IDS, search with costs <br> [3.7.3, 3.5.3] <br> Search: Heuristic Search [3.6]  | |
+|   3   | **Sept 17** <br> Search: Uninformed search, DFS and BFS <br>[3.5.1, 3.5.2] | **Sept 19** <br> Search: IDS, search with costs <br> [3.5.3,3.5.4,3.7.3] <br> Search: Heuristic Search [3.6]  | |
 |   4  | **Sept 24** <br> Search: BestFS, A*, optimality <br> [3.6.1] | **Sept 26** <br> Branch & Bound, IDA*, Pruning <br>[3.7.1, 3.7.4]<br> Dynamic Programming <br> [3.8.3] |  Assignment 1 due on Sep 25 at 11:59 PM|
 |   5  | **Oct 1** <br> CSPs: Introduction [4.1, 4.2] | **Oct 3** <br> CSPs: Search and Consistency <br> [4.3, 4.4]|  |
 |   6  | **Oct 8** <br> CSPs: Arc Consistency and Domain Splitting <br> [4.5, 4.6] | **Oct 10** <br> CSPs: SLS variants (Sim. Annealing + Pop. based) <br> [4.7.3, 4.8] | |
