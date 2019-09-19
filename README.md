@@ -43,7 +43,7 @@ The class meetings will be held on Tuesdays (T) and Thursdays (R) in the Fall 20
 | TA | Siddhesh Khandelwal | skhandel@cs.ubc.ca |
 | TA | Raymond Li | raymondl@cs.ubc.ca |
 | TA | Tzu-yun (Ariel) Shann | shannari@cs.ubc.ca |
-| TA | Joanna Tu | joanna.tu@alumni.ubc.ca |
+| TA | Beriwan Salamat Ravandi | beriwan.ravandi@alumni.ubc.ca |
 
 ## Office hours
 | Day           | Name            | Time | Location |
