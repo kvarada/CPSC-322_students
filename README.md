@@ -38,7 +38,6 @@ The class meetings will be held on Tuesdays (T) and Thursdays (R) in the Fall 20
 | Instructor (Section 1) | Hazra Imran    | hazra@cs.ubc.ca  |
 | Instructor (Section 2) | Varada Kolhatkar     | kvarada@mail.ubc.ca  |
 | TA | Kyle Clarkson | clarkson@cs.ubc.ca |
-| TA | Rui Ge | ge@alumni.ubc.ca |
 | TA | Ganesh Jawahar | ganeshjw@cs.ubc.ca |
 | TA | Siddhesh Khandelwal | skhandel@cs.ubc.ca |
 | TA | Raymond Li | raymondl@cs.ubc.ca |
