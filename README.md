@@ -180,12 +180,12 @@ Every student is allotted four "late days", which allow assignments to be handed
 - You may use up to two of your late days on any assignment.
 - Working with a partner does not increase your total number of available late days.
 
-How late does something have to be to use up a late day? A day is defined as a 24-hour block of time beginning at 5 PM on the day an assignment is due. To use late days, write the number of late days claimed on the first page of your assignment.
+How late does something have to be to use up a late day? A day is defined as a 24-hour block of time beginning at 12am on the day after the assigment is due. To use late days, write the number of late days claimed on the first page of your assignment. (See canvas for assignment due dates).
 
 Examples:
-- Handing in an assignment at the end of lecture on the day it is due consumes one late day. 
-- Handing in an assignment at 10:15 the morning after it is due consumes one late day.
-- Handing in an assignment at 5:30 the day after an assignment is due consumes two late days.
+- Handing in an assignment at 12:00am on the day after it is due consumes one late day. 
+- Handing in an assignment at 11:59pm the evening of the day after it is due consumes one late day.
+- Handing in an assignment at 12:00am on the second day after it is due consumes two late days.
 
 
 
