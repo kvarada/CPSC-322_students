@@ -225,11 +225,11 @@ Topic-level learning goals are useful for self-evaluation and preparing for exam
 |   4  | **Sept 24** <br> Search: BestFS, A*, optimality <br> [3.6.1] | **Sept 26** <br> Branch & Bound, IDA*, Pruning <br>[3.7.1, 3.7.4]<br> Dynamic Programming <br> [3.8.3] |  |
 |   5  | **Oct 1** <br> CSPs: Introduction [4.1, 4.2] | **Oct 3** <br> CSPs: Search and Consistency <br> [4.3, 4.4]|  Assignment 1 due on Sep 30 at 11:59 PM |
 |   6  | **Oct 8** <br> CSPs: Arc Consistency and Domain Splitting <br> [4.5, 4.6] | **Oct 10** <br> CSPs: SLS variants (Sim. Annealing + Pop. based) <br> [4.7.3, 4.8] | |
-|   7  | **Oct 15** <br> CSPs: Local Search <br> [4.7] CSPs: Stochastic Local Search <br> [4.7.1, 4.7.2, 4.7.4] <br> [4.7.3, 4.8] | **Oct 17** <br> Planning: Representations and Forward Search <br> [6.1 (skip 6.1.3)]| Assignment 2 due on Oct 16 at 11:59 PM|  
-|   8  | **Oct 22** <br> Planning: Heuristics and CSP Planning [6.2, 6.4]| **Oct 24** <br> MIDTERM|  |
+|   7  | **Oct 15** <br> CSPs: Local Search <br> [4.7] CSPs: Stochastic Local Search <br> [4.7.1, 4.7.2, 4.7.4] <br> [4.7.3, 4.8] | **Oct 17** <br> Planning: Representations and Forward Search <br> [6.1 (skip 6.1.3)]| |  
+|   8  | **Oct 22** <br> Planning: Heuristics and CSP Planning [6.2, 6.4]| **Oct 24** <br> Midterm prep (no class)| Assignment 2 due on Oct 21 at 11:59 PM <br> Midterm on Friday, Oct 25th from 6pm to 7pm at WOOD 2|
 |   9  | **Oct 29** <br> Logic: Intro and Syntax <br>[5.3.2] Logic: Semantics and Bottom-Up Proofs, BU Sound and Complete <br>[5.1, 5.3, 5.3.2]| **Oct 31** <br> Logic: Domain Modeling and Top-Down Proofs [5.5,5.3.2] |  |
-|   10  | **Nov 5** <br> Logic: Datalog (basic concepts) [13.3]| **Nov 7** <br> Uncertainty: Probability Theory <br>[8.1, 8.1.1, 8.1.2 ]| Assignment 3  due on Nov 4 at 11:59 PM |
-|   11  | **Nov 12** <br> Uncertainty: Conditional Probability [8.1.3 ] <br> Uncertainty: Conditional Independence [8.2] | **Nov 14** <br> Uncertainty: Intro to Belief Networks [8.3]<br>Uncertainty: Belief Nets (indep. compactness, apps) [8.3, 8.3.2]|  |
+|   10  | **Nov 5** <br> Logic: Datalog (basic concepts) [13.3]| **Nov 7** <br> Uncertainty: Probability Theory <br>[8.1, 8.1.1, 8.1.2 ]| |
+|   11  | **Nov 12** <br> Uncertainty: Conditional Probability [8.1.3 ] <br> Uncertainty: Conditional Independence [8.2] | **Nov 14** <br> Uncertainty: Intro to Belief Networks [8.3]<br>Uncertainty: Belief Nets (indep. compactness, apps) [8.3, 8.3.2]| Assignment 3  due on Nov 11 at 11:59 PM |
 |   12  | **Nov 19** <br> Uncertainty: BNet inference (intro to Variable Elimination)[8.4.1] | **Nov 21** <br> Uncertainty: Temporal Probabilistic Models [8.5.1] <br> Uncertainty: Hidden Markov Models [8.5.2]|  |
 |   13  | **Nov 26** <br> Decision Theory: Single Stage Decisions [9.2] | **Nov 28** <br> Decision Theory: Sequential Decisions (policies) [9.3] Revision| Assignment 4 due on Nov 25 at 11:59 PM|
 
