@@ -51,7 +51,6 @@ The class meetings will be held on Tuesdays (T) and Thursdays (R) in the Fall 20
 | Tuesday | Federico | 12:00 to 13:30 PM | ICCS X341|
 | Tuesday | Raymond | 13:00 to 14:30 PM | ICCS X341|
 | Wednesday | Siddhesh | 11:00 to 12:00 PM | ICCS X239|
-| Thursday | Rui | 11:00 to 12:00 PM | ICCS X239|
 | Thursday | Hazra | 12:30 to 13:30 PM | ICCS 249|
 | Friday | Varada | 11:00 to 12:00 PM | ICCS 185|
 | Friday | Ganesh | 12:00 to 13:00 PM | ICCS X337|
