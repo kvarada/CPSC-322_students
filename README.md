@@ -53,7 +53,7 @@ The class meetings will be held on Tuesdays (T) and Thursdays (R) in the Fall 20
 | Wednesday | Siddhesh | 11:00 to 12:00 PM | ICCS X239|
 | Thursday | Hazra | 12:30 to 13:30 PM | ICCS 249|
 | Friday | Varada | 11:00 to 12:00 PM | ICCS 185|
-| Friday | Ganesh | 12:00 to 13:00 PM | ICCS X337|
+| Friday | Ganesh | 12:00 to 13:00 PM | Demco Table 6 |
 | Friday | Kyle | 14:00 to 15:00 PM | ICCS X241|
 
 
