@@ -216,7 +216,7 @@ We reserve the right to change this scheme at any time, though we do not anticip
 
 Topic-level learning goals are useful for self-evaluation and preparing for exams.  The lecture slides will contain the topic-level learning goals.  These are useful for self-evaluation and when studying for exams.  They also give you (and future employers) a more detailed view of the course’s contents than a typical calendar entry or a list of topics would.
 
-| Week     | Tuesday       |    Thursday  | Announcements| In class activities |
+| Week     | Tuesday       |    Thursday  | Announcements| In class activities (102)|
 |-------|------------|----------------|---------------------------|-----| 
 |   1   | **Sept 3** <br> Imagine Day (no class)     |  **Sept 5** <br> What is AI? [1.1-1.3]  | Assignment 0 released | |
 |   2   | **Sept 10** <br> Representational Dimensions [1.4-1.5] <br><br> Applications of AI [1.6] |  **Sept 12** <br> Search: Intro [3.1-3.4]  | Assignment 0 due on Sept 9 at 11:59 PM ||
