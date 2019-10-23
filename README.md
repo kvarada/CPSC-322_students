@@ -71,6 +71,27 @@ Note: Office hours can also be seen [here] (https://my.cs.ubc.ca/course/cpsc-322
 | Final exam period | Tuesday, Dec 3 to Wednesday, Dec 18 | Don’t make any travel plans until after the final exam schedule has been finalized. |
 
 
+
+## Course schedule
+
+Topic-level learning goals are useful for self-evaluation and preparing for exams.  The lecture slides will contain the topic-level learning goals.  These are useful for self-evaluation and when studying for exams.  They also give you (and future employers) a more detailed view of the course’s contents than a typical calendar entry or a list of topics would.
+
+| Week     | Tuesday       |    Thursday  | Announcements| Lecture notes/in class activities (102)|
+|-------|------------|----------------|---------------------------|-----| 
+|   1   | **Sept 3** <br> Imagine Day (no class)     |  **Sept 5** <br> What is AI? [1.1-1.3]  | Assignment 0 released | [lecture1_introduction.pdf](lectures_102/lecture1_introduction.pdf)|
+|   2   | **Sept 10** <br> Representational Dimensions [1.4-1.5] <br><br> Applications of AI [1.6] |  **Sept 12** <br> Search: Intro [3.1-3.4]  | Assignment 0 due on Sept 9 at 11:59 PM | [lecture2_representational_dimensions.pdf](lectures_102/lecture2_representational_dimensions.pdf)<br> [lecture3_search_intro.pdf](lectures_102/lecture3_search_intro.pdf)|
+|   3   | **Sept 17** <br> Search: Uninformed search, DFS and BFS <br>[3.5.1, 3.5.2] | **Sept 19** <br> Search: IDS, search with costs <br> [3.5.3, 3.5.4, 3.7.3] <br> Search: Heuristic Search [3.6]  | Assignment 1 released on Sep 16|  [lecture4_uninformed_search.pdf](lectures_102/lecture4_uninformed_search.pdf)<br> Activity: [BFS_DFS](inclass_activities_102/102_BFS_and_DFS.pdf) [(solution)](inclass_activities_102/102_BFS_and_DFS_soln.pdf) <br>[lecture5_IDS_LCFS_heuristic.pdf](lectures_102/lecture5_IDS_LCFS_heuristic.pdf)|
+|   4  | **Sept 24** <br> Search: BestFS, A*, optimality <br> [3.6.1] | **Sept 26** <br> Branch & Bound, IDA*, Pruning <br>[3.7.1, 3.7.4] |  | [lecture6_best_first_A_star.pdf](lectures_102/lecture6_best_first_A_star.pdf)<br>[lecture7_A_star_optimality_BB.pdf](lectures_102/lecture7_A_star_optimality_BB.pdf)|
+|   5  | **Oct 1** <br> CSPs: Introduction [4.1, 4.2] | **Oct 3** <br> CSPs: Search and Consistency <br> [4.3, 4.4]|  Assignment 1 due on Sep 30 at 11:59 PM | [lecture8_CSPs_intro.pdf](lectures_102/lecture8_CSPs_intro.pdf)<br>Activity: [CSP_intro](inclass_activities_102/102_CSP_intro.pdf) [(solution)](inclass_activities_102/102_CSP_intro_soln.pdf)<br>[lecture9_CSPs_search.pdf](lectures_102/lecture9_CSPs_search.pdf)<br>Activity:[CSP_search](inclass_activities_102/102_CSP_search.pdf) [(solution)](inclass_activities_102/102_CSP_search_soln.pdf)|
+|   6  | **Oct 8** <br> CSPs: Arc Consistency and Domain Splitting <br> [4.5, 4.6] | **Oct 10** <br> CSPs: Local Search <br> [4.7]  | | [lecture10_CSPs_arc_consistency.pdf](lectures_102/lecture10_CSPs_arc_consistency.pdf)<br>[lecture11_domain_splitting_local_search.pdf](lectures_102/lecture11_domain_splitting_local_search.pdf)<br>Activity: [CSP_arc_consistency](inclass_activities_102/102_CSP_arc_consistency_domain_splitting.pdf) [(solution)](inclass_activities_102/102_CSP_arc_consistency_domain_splitting_soln.pdf)|
+|   7  | **Oct 15** <br>  CSPs: Stochastic Local Search <br> [4.7.1, 4.7.2, 4.7.4] <br> | **Oct 17** <br> CSPs: SLS variants (Sim. Annealing + Pop. based) <br> [4.7.3, 4.8] | | [lecture12_SLS.pdf](lectures_102/lecture12_SLS.pdf)<br>Activity: [CSP_SLS](inclass_activities_102/102_CSP_local_search.pdf) [(solution)](inclass_activities_102/102_CSP_local_search_soln.pdf)<br> [lecture13_SLS_variants.pdf](lectures_102/lecture13_SLS_variants.pdf)|
+|   8  | **Oct 22** <br> Planning: Representations and Forward Search <br> [6.1 (skip 6.1.3)] <br> Planning: Heuristics and CSP Planning [6.2, 6.4]| **Oct 24** <br> Midterm prep (no class)| Assignment 2 due on Oct 21 at 11:59 PM <br> Midterm on Friday, Oct 25th from 6pm to 7pm at WOOD 2| [lecture14_planning_intro.pdf](lectures_102/lecture14_planning_intro.pdf)|
+|   9  | **Oct 29** <br> Logic: Intro and Syntax <br>[5.3.2] Logic: Semantics and Bottom-Up Proofs, BU Sound and Complete <br>[5.1, 5.3, 5.3.2]| **Oct 31** <br> Logic: Domain Modeling and Top-Down Proofs [5.5,5.3.2] |  | |
+|   10  | **Nov 5** <br> Logic: Datalog (basic concepts) [13.3]| **Nov 7** <br> Uncertainty: Probability Theory <br>[8.1, 8.1.1, 8.1.2 ]| | |
+|   11  | **Nov 12** <br> Uncertainty: Conditional Probability [8.1.3 ] <br> Uncertainty: Conditional Independence [8.2] | **Nov 14** <br> Uncertainty: Intro to Belief Networks [8.3]<br>Uncertainty: Belief Nets (indep. compactness, apps) [8.3, 8.3.2]| Assignment 3  due on Nov 11 at 11:59 PM | |
+|   12  | **Nov 19** <br> Uncertainty: BNet inference (intro to Variable Elimination)[8.4.1] | **Nov 21** <br> Uncertainty: Temporal Probabilistic Models [8.5.1] <br> Uncertainty: Hidden Markov Models [8.5.2]|  | |
+|   13  | **Nov 26** <br> Decision Theory: Single Stage Decisions [9.2] | **Nov 28** <br> Decision Theory: Sequential Decisions (policies) [9.3] Revision| Assignment 4 due on Nov 25 at 11:59 PM| |
+
 ## Course communication
 
 ### Canvas
@@ -210,27 +231,6 @@ The final examination will be written on a date in December to be determined by 
 
 We reserve the right to change this scheme at any time, though we do not anticipate doing so.
 
-
-
-## Course schedule
-
-Topic-level learning goals are useful for self-evaluation and preparing for exams.  The lecture slides will contain the topic-level learning goals.  These are useful for self-evaluation and when studying for exams.  They also give you (and future employers) a more detailed view of the course’s contents than a typical calendar entry or a list of topics would.
-
-| Week     | Tuesday       |    Thursday  | Announcements| Lecture notes/in class activities (102)|
-|-------|------------|----------------|---------------------------|-----| 
-|   1   | **Sept 3** <br> Imagine Day (no class)     |  **Sept 5** <br> What is AI? [1.1-1.3]  | Assignment 0 released | [lecture1_introduction.pdf](lectures_102/lecture1_introduction.pdf)|
-|   2   | **Sept 10** <br> Representational Dimensions [1.4-1.5] <br><br> Applications of AI [1.6] |  **Sept 12** <br> Search: Intro [3.1-3.4]  | Assignment 0 due on Sept 9 at 11:59 PM | [lecture2_representational_dimensions.pdf](lectures_102/lecture2_representational_dimensions.pdf)<br> [lecture3_search_intro.pdf](lectures_102/lecture3_search_intro.pdf)|
-|   3   | **Sept 17** <br> Search: Uninformed search, DFS and BFS <br>[3.5.1, 3.5.2] | **Sept 19** <br> Search: IDS, search with costs <br> [3.5.3, 3.5.4, 3.7.3] <br> Search: Heuristic Search [3.6]  | Assignment 1 released on Sep 16|  [lecture4_uninformed_search.pdf](lectures_102/lecture4_uninformed_search.pdf)<br> Activity: [BFS_DFS](inclass_activities_102/102_BFS_and_DFS.pdf) [(solution)](inclass_activities_102/102_BFS_and_DFS_soln.pdf) <br>[lecture5_IDS_LCFS_heuristic.pdf](lectures_102/lecture5_IDS_LCFS_heuristic.pdf)|
-|   4  | **Sept 24** <br> Search: BestFS, A*, optimality <br> [3.6.1] | **Sept 26** <br> Branch & Bound, IDA*, Pruning <br>[3.7.1, 3.7.4] |  | [lecture6_best_first_A_star.pdf](lectures_102/lecture6_best_first_A_star.pdf)<br>[lecture7_A_star_optimality_BB.pdf](lectures_102/lecture7_A_star_optimality_BB.pdf)|
-|   5  | **Oct 1** <br> CSPs: Introduction [4.1, 4.2] | **Oct 3** <br> CSPs: Search and Consistency <br> [4.3, 4.4]|  Assignment 1 due on Sep 30 at 11:59 PM | [lecture8_CSPs_intro.pdf](lectures_102/lecture8_CSPs_intro.pdf)<br>Activity: [CSP_intro](inclass_activities_102/102_CSP_intro.pdf) [(solution)](inclass_activities_102/102_CSP_intro_soln.pdf)<br>[lecture9_CSPs_search.pdf](lectures_102/lecture9_CSPs_search.pdf)<br>Activity:[CSP_search](inclass_activities_102/102_CSP_search.pdf) [(solution)](inclass_activities_102/102_CSP_search_soln.pdf)|
-|   6  | **Oct 8** <br> CSPs: Arc Consistency and Domain Splitting <br> [4.5, 4.6] | **Oct 10** <br> CSPs: Local Search <br> [4.7]  | | [lecture10_CSPs_arc_consistency.pdf](lectures_102/lecture10_CSPs_arc_consistency.pdf)<br>[lecture11_domain_splitting_local_search.pdf](lectures_102/lecture11_domain_splitting_local_search.pdf)<br>Activity: [CSP_arc_consistency](inclass_activities_102/102_CSP_arc_consistency_domain_splitting.pdf) [(solution)](inclass_activities_102/102_CSP_arc_consistency_domain_splitting_soln.pdf)|
-|   7  | **Oct 15** <br>  CSPs: Stochastic Local Search <br> [4.7.1, 4.7.2, 4.7.4] <br> | **Oct 17** <br> CSPs: SLS variants (Sim. Annealing + Pop. based) <br> [4.7.3, 4.8] | | [lecture12_SLS.pdf](lectures_102/lecture12_SLS.pdf)<br>Activity: [CSP_SLS](inclass_activities_102/102_CSP_local_search.pdf)[(solution)](inclass_activities_102/102_CSP_local_search_soln.pdf)<br> [lecture13_SLS_variants.pdf](lectures_102/lecture13_SLS_variants.pdf)|
-|   8  | **Oct 22** <br> Planning: Representations and Forward Search <br> [6.1 (skip 6.1.3)] <br> Planning: Heuristics and CSP Planning [6.2, 6.4]| **Oct 24** <br> Midterm prep (no class)| Assignment 2 due on Oct 21 at 11:59 PM <br> Midterm on Friday, Oct 25th from 6pm to 7pm at WOOD 2| [lecture14_planning_intro.pdf](lectures_102/lecture14_planning_intro.pdf)|
-|   9  | **Oct 29** <br> Logic: Intro and Syntax <br>[5.3.2] Logic: Semantics and Bottom-Up Proofs, BU Sound and Complete <br>[5.1, 5.3, 5.3.2]| **Oct 31** <br> Logic: Domain Modeling and Top-Down Proofs [5.5,5.3.2] |  | |
-|   10  | **Nov 5** <br> Logic: Datalog (basic concepts) [13.3]| **Nov 7** <br> Uncertainty: Probability Theory <br>[8.1, 8.1.1, 8.1.2 ]| | |
-|   11  | **Nov 12** <br> Uncertainty: Conditional Probability [8.1.3 ] <br> Uncertainty: Conditional Independence [8.2] | **Nov 14** <br> Uncertainty: Intro to Belief Networks [8.3]<br>Uncertainty: Belief Nets (indep. compactness, apps) [8.3, 8.3.2]| Assignment 3  due on Nov 11 at 11:59 PM | |
-|   12  | **Nov 19** <br> Uncertainty: BNet inference (intro to Variable Elimination)[8.4.1] | **Nov 21** <br> Uncertainty: Temporal Probabilistic Models [8.5.1] <br> Uncertainty: Hidden Markov Models [8.5.2]|  | |
-|   13  | **Nov 26** <br> Decision Theory: Single Stage Decisions [9.2] | **Nov 28** <br> Decision Theory: Sequential Decisions (policies) [9.3] Revision| Assignment 4 due on Nov 25 at 11:59 PM| |
 
 ## Other useful information 
 
