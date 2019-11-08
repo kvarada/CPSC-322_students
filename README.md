@@ -68,7 +68,7 @@ Note: Office hours can also be seen [here] (https://my.cs.ubc.ca/course/cpsc-322
 | Add/drop deadline | Tuesday, Sept 17, 2019 | You can drop the course on or before this date without getting a ‘W’ (for “withdrawal”) on your official transcript.|
 | Final withdrawal deadline | Friday, Oct 11, 2019 | Beyond this date, you will get a numeric grade for the course.|
 | Last class | Thursday, Nov 28, 2019 | |
-| Final exam period | Tuesday, Dec 3 to Wednesday, Dec 18 | Don’t make any travel plans until after the final exam schedule has been finalized. |
+| Final exam | Monday, Dec 09, 2019, 7 PM | Do not make any travel plans during that period.|
 
 
 
