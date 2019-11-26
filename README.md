@@ -184,7 +184,7 @@ Students who have a legitimate conflict with the exam time must notify the instr
 The final examination will be written on a date in December to be determined by the University.  If you cannot write the final exam, then you must provide documentation (e.g., a doctor’s note) to your home Faculty office.  For example, if you are in Science, then it will be the Faculty of Science;  if you are in Engineering, then it will be the Faculty of Applied Science;  and similarly, for Arts, Commerce, etc.  You will write an exam at a future date determined by the University; usually, this is during the deferred exam period.  Important note:  Your home faculty office may not allow you to write a deferred final exam (even if you have a doctor’s note) if your term work is incomplete (e.g., missing midterm or missing classes).
 
 - Final Examination 
-  - TBA
+  - Monday, Dec 09, 2019, 7 PM, Location: SRC A
 
 We reserve the right to change this scheme at any time, though we do not anticipate doing so.
 
