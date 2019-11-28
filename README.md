@@ -44,18 +44,16 @@ The class meetings will be held on Tuesdays (T) and Thursdays (R) in the Fall 20
 | TA | Tzu-yun (Ariel) Shann | shannari@cs.ubc.ca |
 | TA | Beriwan Salamat Ravandi | beriwan.ravandi@alumni.ubc.ca |
 
-## Office hours
+## Office hours (for the week of Dec 2nd) 
 | Day           | Name            | Time | Location |
 | :---------------- | :-------------- | :---------- |:----------: |
-| Monday | Ariel | 10:30 to 11:30 AM | ICCS X239|
-| Tuesday | Federico | 12:00 to 13:30 PM | ICCS X341|
-| Tuesday | Raymond | 13:00 to 14:30 PM | ICCS X341|
-| Wednesday | Siddhesh | 11:00 to 12:00 PM | ICCS X239|
-| Thursday | Hazra | 12:30 to 13:30 PM | ICCS 249|
-| Friday | Varada | 11:00 to 12:00 PM | ICCS 185|
-| Friday | Ganesh | 12:00 to 13:00 PM | Demco Table 6 |
-| Friday | Kyle | 14:00 to 15:00 PM | ICCS X241|
-
+| Monday (Dec 2) | Ariel | 10:30 to 11:30 AM | ICCS X239|
+| Monday (Dec 2) | Ganesh | 12 to 1:00 PM | ICCS X339|
+| Tuesday (Dec 3) | Kyle | 11 to 12:00 PM | ICCS X241|
+| Tuesday (Dec 3) | Kyle | 11 to 12:00 PM | ICCS X241|
+| Wednesday (Dec 4) | Siddesh | 11 to 12:00 PM | ICCS X239 | 
+| Thursday (Dec 5) | Hazra | 11 to 1 | ICCS 249 | ICCS 249 |
+| Friday (Dec 6) | Varada | 11:00 to 12:00 PM | ICCS 185|
 
 
 Note: Office hours can also be seen [here] (https://my.cs.ubc.ca/course/cpsc-322).
