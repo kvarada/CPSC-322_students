@@ -50,7 +50,6 @@ The class meetings will be held on Tuesdays (T) and Thursdays (R) in the Fall 20
 | Monday (Dec 2) | Ariel | 10:30 to 11:30 AM | ICCS X239|
 | Monday (Dec 2) | Ganesh | 12 to 1:00 PM | ICCS X339|
 | Tuesday (Dec 3) | Kyle | 11 to 12:00 PM | ICCS X241|
-| Tuesday (Dec 3) | Kyle | 11 to 12:00 PM | ICCS X241|
 | Wednesday (Dec 4) | Siddesh | 11 to 12:00 PM | ICCS X239 | 
 | Thursday (Dec 5) | Hazra | 11 to 1 | ICCS 249 | ICCS 249 |
 | Friday (Dec 6) | Varada | 11:00 to 12:00 PM | ICCS 185|
